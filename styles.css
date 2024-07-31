@@ -49,11 +49,12 @@ h3 {
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
     padding-top: 20px;
+    font-size: 23px;
 }
 
 /* Wheel Styles */
 .wheel-container {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 50px;
     position: relative;
     width: 700px;
@@ -124,14 +125,14 @@ h3 {
 .wheel-container .wheel .number span{
     position: relative;
     transform: rotate(36deg);
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 500;
     color: black;
 }
 
 .wheel-container .wheel .number span::after{
     position: absolute;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -140,7 +141,7 @@ h3 {
 footer {
     background-color: #ebd8ea;
     text-align: center;
-    font-size: 15px;
+    font-size: 18px;
     position: relative;
     width: 100%;
     padding: 10px 0;
@@ -154,7 +155,7 @@ footer p {
 }
 
 #disclaimer {
-    font-size: 12px;
+    font-size: 14px;
     color: #63697c;
-    padding: 10px;
+    padding: 15px;
 }
